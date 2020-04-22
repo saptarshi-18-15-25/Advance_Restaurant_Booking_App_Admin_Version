@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/dish_Price"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:background="@drawable/edittext_style"
+        android:hint="Enter new price"
+        android:textAlignment="center"/>
+    <EditText
+        android:id="@+id/dish_Desc"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edittext_style"
+        android:hint="Enter new description"
+        android:textAlignment="center"/>
+    <Button
+        android:id="@+id/btn"
+        android:layout_marginTop="15dp"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/upload_button_style"
+        android:textColor="#FAA62B"
+        android:text="Add Dish"/>
+
+</LinearLayout>

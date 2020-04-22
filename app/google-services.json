@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "376918275886",
+    "firebase_url": "https://restro-12bcf.firebaseio.com",
+    "project_id": "restro-12bcf",
+    "storage_bucket": "restro-12bcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376918275886:android:5fc10f62bccb14a112ecbf",
+        "android_client_info": {
+          "package_name": "com.example.adminrestro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376918275886-uk5v1upj7g1q3kpj5lga2ai1sfd9ma28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminrestro",
+            "certificate_hash": "6ab0fbfaf0d0da6d1d2d83cfd3b8abebc1d6e974"
+          }
+        },
+        {
+          "client_id": "376918275886-narg54t8lr1i2jokhidhufu2083vgk0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnigzp4tqJh3fZQtzwu1iGZ7R2tBfL7JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376918275886-narg54t8lr1i2jokhidhufu2083vgk0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376918275886:android:881c551a6ca984ad12ecbf",
+        "android_client_info": {
+          "package_name": "com.example.restro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376918275886-kgqqi73caenbstlnnka5su6bhkur14dg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restro",
+            "certificate_hash": "6ab0fbfaf0d0da6d1d2d83cfd3b8abebc1d6e974"
+          }
+        },
+        {
+          "client_id": "376918275886-narg54t8lr1i2jokhidhufu2083vgk0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnigzp4tqJh3fZQtzwu1iGZ7R2tBfL7JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376918275886-narg54t8lr1i2jokhidhufu2083vgk0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376918275886:android:ef3bf1d414c0218312ecbf",
+        "android_client_info": {
+          "package_name": "com.example.wrestro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376918275886-d6ohgirs21flji6jpimougp5kls8ngqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wrestro",
+            "certificate_hash": "6ab0fbfaf0d0da6d1d2d83cfd3b8abebc1d6e974"
+          }
+        },
+        {
+          "client_id": "376918275886-narg54t8lr1i2jokhidhufu2083vgk0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnigzp4tqJh3fZQtzwu1iGZ7R2tBfL7JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376918275886-narg54t8lr1i2jokhidhufu2083vgk0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

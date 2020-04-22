@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#ffffff">
+
+    <Button
+        android:id="@+id/choose"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/choose_button_style"
+        android:textColor="#B8B3B3"
+        android:text="Choose"/>
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+
+    <EditText
+        android:id="@+id/dish_Name"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:hint="Enter Dish Name"
+        android:textAlignment="center"
+        android:background="@drawable/edittext_style"/>
+
+    <Button
+        android:id="@+id/uBtn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/upload_button_style"
+        android:textColor="#FAA62B"
+        android:text="Upload"/>
+
+
+
+    <Button
+        android:id="@+id/addDt"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/details_button_style"
+        android:layout_marginTop="10dp"
+        android:textColor="#7F91F3"
+        android:text="Add Details"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="160dp"
+        android:layout_marginBottom="0dp"
+        android:layout_height="50dp"
+        android:padding="10dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/people_nev"
+            android:layout_marginLeft="30dp"/>
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/dish_nev"
+            android:layout_marginLeft="120dp"/>
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/setting_nev"
+            android:layout_marginLeft="120dp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
